@@ -20,7 +20,42 @@ Perform a real-world, pre-production test of your crowdsale. In order to do so, 
 
 ### Deploy the crowdscale to a local blockchain with Remix, MetaMask and Ganache
 
-#### Screenshot on KaseiCoin.sol deploy
+### Screenshots on KaseiCoin.sol and KaseiCoin Crowdsale.sol
+
+![2022-05-22 (19)](https://user-images.githubusercontent.com/93211640/169713768-c1f42c7e-a206-405b-97fe-c33e10c65e6c.png)
+
+
+![2022-05-22 (18)](https://user-images.githubusercontent.com/93211640/169713789-9d575dd2-0ff1-46d3-bb61-77d8ed953fb2.png)
+
+### MetaMask 
+
+![2022-05-22 (15)](https://user-images.githubusercontent.com/93211640/169713826-7d4dff38-9e5d-46fb-9bf4-cde94c11597d.png)
+
+![2022-05-22 (17)](https://user-images.githubusercontent.com/93211640/169713850-fd902ef1-8960-4a79-8651-74da583c14d1.png)
+
+### Ganache
+
+![2022-05-22 (20)](https://user-images.githubusercontent.com/93211640/169713894-42ed40fd-d5bf-4bc3-b348-fab10653466c.png)
+
+***Contributors***
+
+James Tagapan
+
+jtagapan@gmail.com
+
+License
+
+Licensed under the MIT License. Copyright 2020# Module_10_Challenge
+
+
+
+
+
+
+
+
+
+
 
 
 
